@@ -1,0 +1,573 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<svg
+   width="269mm"
+   height="91mm"
+   viewBox="-135 -4.938 269 91"
+   version="1.1"
+   id="svg32"
+   sodipodi:docname="panel2.svg"
+   inkscape:version="1.4.4 (dcaf3e7, 2026-05-05)"
+   xmlns:inkscape="http://www.inkscape.org/namespaces/inkscape"
+   xmlns:sodipodi="http://sodipodi.sourceforge.net/DTD/sodipodi-0.dtd"
+   xmlns="http://www.w3.org/2000/svg"
+   xmlns:svg="http://www.w3.org/2000/svg">
+  <defs
+     id="defs32">
+    <rect
+       x="131.70795"
+       y="273.81389"
+       width="11.553329"
+       height="13.863994"
+       id="rect52" />
+  </defs>
+  <sodipodi:namedview
+     id="namedview32"
+     pagecolor="#ffffff"
+     bordercolor="#000000"
+     borderopacity="0.25"
+     inkscape:showpageshadow="2"
+     inkscape:pageopacity="0.0"
+     inkscape:pagecheckerboard="0"
+     inkscape:deskcolor="#d1d1d1"
+     inkscape:document-units="mm"
+     inkscape:zoom="0.86555143"
+     inkscape:cx="507.76879"
+     inkscape:cy="81.450966"
+     inkscape:window-width="1602"
+     inkscape:window-height="1130"
+     inkscape:window-x="0"
+     inkscape:window-y="25"
+     inkscape:window-maximized="0"
+     inkscape:current-layer="g32" />
+  <title
+     id="title1">svgOutput_Optimized_v3_DoubleSoundboy_Fixed</title>
+  <desc
+     id="desc1">Optimized for laser cutting - SOUNDBOY etching scaled 2x on Blue layer, with fixed S letter</desc>
+  <!-- Red Cutting Layer (High Power / Vector Cut) -->
+  <g
+     fill="none"
+     stroke="#FF0000"
+     stroke-width="0.1"
+     vector-effect="non-scaling-stroke"
+     id="g32"
+     style="fill:#000000">
+    <!-- Outer Plate Boundary -->
+    <rect
+       x="-134"
+       y="-3.938"
+       width="267"
+       height="89"
+       id="rect1"
+       style="fill:#000000" />
+    <!-- Corner Mounting Holes (3mm Diameter) -->
+    <circle
+       cx="-129"
+       cy="80.062"
+       r="1.5"
+       id="circle1"
+       style="fill:#000000" />
+    <circle
+       cx="-129"
+       cy="1.062"
+       r="1.5"
+       id="circle2"
+       style="fill:#000000" />
+    <circle
+       cx="128"
+       cy="80.062"
+       r="1.5"
+       id="circle3"
+       style="fill:#000000" />
+    <circle
+       cx="128"
+       cy="1.062"
+       r="1.5"
+       id="circle4"
+       style="fill:#000000" />
+    <!-- Encoder / Circular Cutout (8.0mm Diameter) -->
+    <circle
+       cx="101"
+       cy="19.062"
+       r="4"
+       id="circle5"
+       style="fill:#000000" />
+    <!-- Spacebar / OLED Screen Gap -->
+    <rect
+       x="-3.503"
+       y="4.059"
+       width="70.092"
+       height="26.005"
+       id="rect5"
+       style="fill:#000000" />
+    <!-- Cherry MX Switch Cutouts (14.005mm x 14.005mm) -->
+    <!-- Column 1 (Far Left Vertical Row) -->
+    <rect
+       x="-121.503"
+       y="64.059"
+       width="14.005"
+       height="14.005"
+       id="rect6"
+       style="fill:#572b91;fill-opacity:1" />
+    <rect
+       x="-121.503"
+       y="44.059"
+       width="14.005"
+       height="14.005"
+       id="rect7"
+       style="fill:#572b91;fill-opacity:1" />
+    <rect
+       x="-121.503"
+       y="24.059"
+       width="14.005"
+       height="14.005"
+       id="rect8"
+       style="fill:#572b91;fill-opacity:1" />
+    <rect
+       x="-121.503"
+       y="4.059"
+       width="14.005"
+       height="14.005"
+       id="rect9"
+       style="fill:#572b91;fill-opacity:1" />
+    <!-- Column 2 -->
+    <rect
+       x="-97.503"
+       y="64.059"
+       width="14.005"
+       height="14.005"
+       id="rect10"
+       style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero" />
+    <rect
+       x="-97.503"
+       y="4.059"
+       width="14.005"
+       height="14.005"
+       id="rect11"
+       style="fill:#369e76;fill-opacity:1" />
+    <!-- Column 3 -->
+    <rect
+       x="-77.503"
+       y="64.059"
+       width="14.005"
+       height="14.005"
+       id="rect12"
+       style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero" />
+    <rect
+       x="-77.503"
+       y="4.059"
+       width="14.005"
+       height="14.005"
+       id="rect13"
+       style="fill:#369e76;fill-opacity:1" />
+    <!-- Column 4 -->
+    <rect
+       x="-57.503"
+       y="64.059"
+       width="14.005"
+       height="14.005"
+       id="rect14"
+       style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero" />
+    <rect
+       x="-57.503"
+       y="4.059"
+       width="14.005"
+       height="14.005"
+       id="rect15"
+       style="fill:#369e76;fill-opacity:1" />
+    <!-- Column 5 -->
+    <rect
+       x="-37.503"
+       y="64.059"
+       width="14.005"
+       height="14.005"
+       id="rect16"
+       style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero" />
+    <rect
+       x="-37.503"
+       y="4.059"
+       width="14.005"
+       height="14.005"
+       id="rect17"
+       style="fill:#369e76;fill-opacity:1" />
+    <!-- Black Keys Group 1 & 2 -->
+    <rect
+       x="-86.503"
+       y="44.059"
+       width="14.005"
+       height="14.005"
+       id="rect18"
+       style="fill:#111111;fill-opacity:1" />
+    <rect
+       x="-66.503"
+       y="44.059"
+       width="14.005"
+       height="14.005"
+       id="rect19"
+       style="fill:#111111;fill-opacity:1" />
+    <rect
+       x="-27.503"
+       y="44.059"
+       width="14.005"
+       height="14.005"
+       id="rect20"
+       style="fill:#111111;fill-opacity:1" />
+    <rect
+       x="-7.503"
+       y="44.059"
+       width="14.005"
+       height="14.005"
+       id="rect21"
+       style="fill:#111111;fill-opacity:1" />
+    <!-- Bottom Row (Right Side Offset / White Keys Continuation) -->
+    <rect
+       x="-17.503"
+       y="64.059"
+       width="14.005"
+       height="14.005"
+       id="rect22"
+       style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero" />
+    <rect
+       x="2.498"
+       y="64.059"
+       width="14.005"
+       height="14.005"
+       id="rect23"
+       style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero" />
+    <rect
+       x="22.498"
+       y="64.059"
+       width="14.005"
+       height="14.005"
+       id="rect24"
+       style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero" />
+    <rect
+       x="42.498"
+       y="64.059"
+       width="14.005"
+       height="14.005"
+       id="rect25"
+       style="fill:#bfbfbf;fill-opacity:1;fill-rule:nonzero" />
+    <rect
+       x="69.498"
+       y="64.059"
+       width="14.005"
+       height="14.005"
+       id="rect26"
+       style="fill:#572b91;fill-opacity:1" />
+    <rect
+       x="89.498"
+       y="64.059"
+       width="14.005"
+       height="14.005"
+       id="rect27"
+       style="fill:#572b91;fill-opacity:1" />
+    <rect
+       x="109.498"
+       y="64.059"
+       width="14.005"
+       height="14.005"
+       id="rect28"
+       style="fill:#572b91;fill-opacity:1" />
+    <!-- Middle Row Cutouts (Correct single key at x=12.498, duplicate removed) -->
+    <rect
+       x="12.498"
+       y="44.059"
+       width="14.005"
+       height="14.005"
+       id="rect29"
+       style="fill:#111111;fill-opacity:1" />
+    <rect
+       x="89.498"
+       y="44.059"
+       width="14.005"
+       height="14.005"
+       id="rect30"
+       style="fill:#572b91;fill-opacity:1" />
+    <!-- Upper-Middle/Right cutouts -->
+    <rect
+       x="41.498"
+       y="38.059"
+       width="14.005"
+       height="14.005"
+       id="rect31"
+       style="fill:#369e76;fill-opacity:1" />
+    <rect
+       x="61.498"
+       y="38.059"
+       width="14.005"
+       height="14.005"
+       id="rect32"
+       style="fill:#369e76;fill-opacity:1" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:23.4788;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke-width:0.404"
+       x="-94.650002"
+       y="68.119949"
+       id="text51" />
+    <text
+       xml:space="preserve"
+       transform="matrix(0.26458333,0,0,0.26458333,-135,-4.938)"
+       id="text52"
+       style="fill:#000000;text-orientation:auto;stroke-width:1.52692913;writing-mode:lr-tb;direction:ltr;fill-opacity:1;fill-rule:nonzero;white-space:pre;shape-inside:url(#rect52)" />
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.404;stroke-opacity:1"
+       x="-120.32726"
+       y="55.586998"
+       id="text53"><tspan
+         sodipodi:role="line"
+         id="tspan53"
+         style="stroke-width:0.404"
+         x="-120.32726"
+         y="55.586998">ctrl </tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.404;stroke-opacity:1"
+       x="-119.41023"
+       y="33.272228"
+       id="text54"><tspan
+         sodipodi:role="line"
+         id="tspan54"
+         style="stroke-width:0.404"
+         x="-119.41023"
+         y="33.272228">shift</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.404;stroke-opacity:1"
+       x="-119.71591"
+       y="70.565407"
+       id="text55"><tspan
+         sodipodi:role="line"
+         id="tspan55"
+         style="stroke-width:0.404"
+         x="-119.71591"
+         y="70.565407">play</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.404"
+         x="-119.71591"
+         y="75.857071"
+         id="tspan25">enter</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.404;stroke-opacity:1"
+       x="-34.73637"
+       y="13.097227"
+       id="text56"><tspan
+         sodipodi:role="line"
+         id="tspan56"
+         style="stroke-width:0.404"
+         x="-34.73637"
+         y="13.097227">bsp</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;white-space:pre;inline-size:8.09849;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.404;stroke-opacity:1"
+       x="47.492039"
+       y="43.971088"
+       id="text57"
+       transform="translate(19.563636,1.8340909)"><tspan
+         x="47.492039"
+         y="43.971088"
+         id="tspan1">+</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.404;stroke-opacity:1"
+       x="-119.41022"
+       y="14.319954"
+       id="text58"><tspan
+         sodipodi:role="line"
+         id="tspan58"
+         style="stroke-width:0.404"
+         x="-119.41022"
+         y="14.319954">tab</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.404;stroke-opacity:1"
+       x="-92.204544"
+       y="11.874498"
+       id="text59"><tspan
+         sodipodi:role="line"
+         id="tspan59"
+         style="stroke-width:0.404"
+         x="-92.204544"
+         y="11.874498">x</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.404;stroke-opacity:1"
+       x="-52.771591"
+       y="11.568819"
+       id="text60"><tspan
+         sodipodi:role="line"
+         id="tspan60"
+         style="stroke-width:0.404"
+         x="-52.771591"
+         y="11.568819">m</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;fill-opacity:1;fill-rule:nonzero;stroke:#000000;stroke-width:0.404;stroke-opacity:1"
+       x="-72.640907"
+       y="11.874499"
+       id="text61"><tspan
+         sodipodi:role="line"
+         id="tspan61"
+         style="stroke-width:0.404"
+         x="-72.640907"
+         y="11.874499">c</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.404"
+       x="79.588631"
+       y="-16.859591"
+       id="text3"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.404"
+         x="79.588631"
+         y="-16.859591"
+         id="tspan6" /></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.404"
+       x="47.797733"
+       y="46.110863"
+       id="text7"><tspan
+         sodipodi:role="line"
+         id="tspan7"
+         style="stroke-width:0.404"
+         x="47.797733"
+         y="46.110863">-</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.404"
+       x="-96.484093"
+       y="68.425636"
+       id="text8"><tspan
+         sodipodi:role="line"
+         id="tspan8"
+         style="stroke-width:0.404"
+         x="-96.484093"
+         y="68.425636">c</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.404"
+         x="-96.484093"
+         y="73.7173"
+         id="tspan16">1</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.404"
+       x="-76.30909"
+       y="68.425629"
+       id="text9"><tspan
+         sodipodi:role="line"
+         id="tspan9"
+         style="stroke-width:0.404"
+         x="-76.30909"
+         y="68.425629">d</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.404"
+         x="-76.30909"
+         y="73.717293"
+         id="tspan17">2</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.404"
+       x="-56.439777"
+       y="67.814278"
+       id="text10"><tspan
+         sodipodi:role="line"
+         id="tspan10"
+         style="stroke-width:0.404"
+         x="-56.439777"
+         y="67.814278">e</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.404"
+         x="-56.439777"
+         y="73.105942"
+         id="tspan18">3</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.404"
+       x="-36.570454"
+       y="68.731316"
+       id="text11"><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.404"
+         x="-36.570454"
+         y="68.731316"
+         id="tspan19">f</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.404"
+         x="-36.570454"
+         y="74.02298"
+         id="tspan20">4</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.404"
+       x="-17.006823"
+       y="68.119957"
+       id="text12"><tspan
+         sodipodi:role="line"
+         id="tspan12"
+         style="stroke-width:0.404"
+         x="-17.006823"
+         y="68.119957">g</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.404"
+         x="-17.006823"
+         y="73.411621"
+         id="tspan21">5</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.404"
+       x="3.4738629"
+       y="67.814278"
+       id="text13"><tspan
+         sodipodi:role="line"
+         id="tspan13"
+         style="stroke-width:0.404"
+         x="3.4738629"
+         y="67.814278">a</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.404"
+         x="3.4738629"
+         y="73.105942"
+         id="tspan22">6</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.404"
+       x="23.343176"
+       y="68.425636"
+       id="text14"><tspan
+         sodipodi:role="line"
+         id="tspan14"
+         style="stroke-width:0.404"
+         x="23.343176"
+         y="68.425636">b</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.404"
+         x="23.343176"
+         y="73.7173"
+         id="tspan23">7</tspan></text>
+    <text
+       xml:space="preserve"
+       style="font-size:4.23333px;writing-mode:lr-tb;direction:ltr;fill:#000000;stroke:#000000;stroke-width:0.404"
+       x="43.823853"
+       y="67.508591"
+       id="text15"><tspan
+         sodipodi:role="line"
+         id="tspan15"
+         style="stroke-width:0.404"
+         x="43.823853"
+         y="67.508591">c</tspan><tspan
+         sodipodi:role="line"
+         style="stroke-width:0.404"
+         x="43.823853"
+         y="72.800255"
+         id="tspan24">8</tspan></text>
+  </g>
+  <!-- Blue Etching Layer (Low Power / Fill Scan) -->
+  <!-- "soundboy" 5x7 Pixel Font, centered in Row 2 empty space above C# and D# -->
+  <path
+     fill="#0000FF"
+     stroke="none"
+     d="         M -83.8 27.0 h 0.9 v 0.9 h -0.9 z M -82.6 27.0 h 0.9 v 0.9 h -0.9 z M -81.4 27.0 h 0.9 v 0.9 h -0.9 z M -85.0 28.2 h 0.9 v 0.9 h -0.9 z M -80.2 28.2 h 0.9 v 0.9 h -0.9 z M -85.0 29.4 h 0.9 v 0.9 h -0.9 z M -83.8 30.6 h 0.9 v 0.9 h -0.9 z M -82.6 30.6 h 0.9 v 0.9 h -0.9 z M -81.4 30.6 h 0.9 v 0.9 h -0.9 z M -80.2 31.8 h 0.9 v 0.9 h -0.9 z M -85.0 33.0 h 0.9 v 0.9 h -0.9 z M -80.2 33.0 h 0.9 v 0.9 h -0.9 z M -83.8 34.2 h 0.9 v 0.9 h -0.9 z M -82.6 34.2 h 0.9 v 0.9 h -0.9 z M -81.4 34.2 h 0.9 v 0.9 h -0.9 z         M -76.2 27.0 h 0.9 v 0.9 h -0.9 z M -75.0 27.0 h 0.9 v 0.9 h -0.9 z M -73.8 27.0 h 0.9 v 0.9 h -0.9 z M -77.4 28.2 h 0.9 v 0.9 h -0.9 z M -72.6 28.2 h 0.9 v 0.9 h -0.9 z M -77.4 29.4 h 0.9 v 0.9 h -0.9 z M -72.6 29.4 h 0.9 v 0.9 h -0.9 z M -77.4 30.6 h 0.9 v 0.9 h -0.9 z M -72.6 30.6 h 0.9 v 0.9 h -0.9 z M -77.4 31.8 h 0.9 v 0.9 h -0.9 z M -72.6 31.8 h 0.9 v 0.9 h -0.9 z M -77.4 33.0 h 0.9 v 0.9 h -0.9 z M -72.6 33.0 h 0.9 v 0.9 h -0.9 z M -76.2 34.2 h 0.9 v 0.9 h -0.9 z M -75.0 34.2 h 0.9 v 0.9 h -0.9 z M -73.8 34.2 h 0.9 v 0.9 h -0.9 z         M -69.8 27.0 h 0.9 v 0.9 h -0.9 z M -65.0 27.0 h 0.9 v 0.9 h -0.9 z M -69.8 28.2 h 0.9 v 0.9 h -0.9 z M -65.0 28.2 h 0.9 v 0.9 h -0.9 z M -69.8 29.4 h 0.9 v 0.9 h -0.9 z M -65.0 29.4 h 0.9 v 0.9 h -0.9 z M -69.8 30.6 h 0.9 v 0.9 h -0.9 z M -65.0 30.6 h 0.9 v 0.9 h -0.9 z M -69.8 31.8 h 0.9 v 0.9 h -0.9 z M -65.0 31.8 h 0.9 v 0.9 h -0.9 z M -69.8 33.0 h 0.9 v 0.9 h -0.9 z M -65.0 33.0 h 0.9 v 0.9 h -0.9 z M -68.6 34.2 h 0.9 v 0.9 h -0.9 z M -67.4 34.2 h 0.9 v 0.9 h -0.9 z M -66.2 34.2 h 0.9 v 0.9 h -0.9 z         M -62.2 27.0 h 0.9 v 0.9 h -0.9 z M -57.4 27.0 h 0.9 v 0.9 h -0.9 z M -62.2 28.2 h 0.9 v 0.9 h -0.9 z M -61.0 28.2 h 0.9 v 0.9 h -0.9 z M -57.4 28.2 h 0.9 v 0.9 h -0.9 z M -62.2 29.4 h 0.9 v 0.9 h -0.9 z M -59.8 29.4 h 0.9 v 0.9 h -0.9 z M -57.4 29.4 h 0.9 v 0.9 h -0.9 z M -62.2 30.6 h 0.9 v 0.9 h -0.9 z M -58.6 30.6 h 0.9 v 0.9 h -0.9 z M -57.4 30.6 h 0.9 v 0.9 h -0.9 z M -62.2 31.8 h 0.9 v 0.9 h -0.9 z M -57.4 31.8 h 0.9 v 0.9 h -0.9 z M -62.2 33.0 h 0.9 v 0.9 h -0.9 z M -57.4 33.0 h 0.9 v 0.9 h -0.9 z M -62.2 34.2 h 0.9 v 0.9 h -0.9 z M -57.4 34.2 h 0.9 v 0.9 h -0.9 z         M -54.6 27.0 h 0.9 v 0.9 h -0.9 z M -53.4 27.0 h 0.9 v 0.9 h -0.9 z M -52.2 27.0 h 0.9 v 0.9 h -0.9 z M -51.0 27.0 h 0.9 v 0.9 h -0.9 z M -54.6 28.2 h 0.9 v 0.9 h -0.9 z M -49.8 28.2 h 0.9 v 0.9 h -0.9 z M -54.6 29.4 h 0.9 v 0.9 h -0.9 z M -49.8 29.4 h 0.9 v 0.9 h -0.9 z M -54.6 30.6 h 0.9 v 0.9 h -0.9 z M -49.8 30.6 h 0.9 v 0.9 h -0.9 z M -54.6 31.8 h 0.9 v 0.9 h -0.9 z M -49.8 31.8 h 0.9 v 0.9 h -0.9 z M -54.6 33.0 h 0.9 v 0.9 h -0.9 z M -49.8 33.0 h 0.9 v 0.9 h -0.9 z M -54.6 34.2 h 0.9 v 0.9 h -0.9 z M -53.4 34.2 h 0.9 v 0.9 h -0.9 z M -52.2 34.2 h 0.9 v 0.9 h -0.9 z M -51.0 34.2 h 0.9 v 0.9 h -0.9 z         M -47.0 27.0 h 0.9 v 0.9 h -0.9 z M -45.8 27.0 h 0.9 v 0.9 h -0.9 z M -44.6 27.0 h 0.9 v 0.9 h -0.9 z M -43.4 27.0 h 0.9 v 0.9 h -0.9 z M -47.0 28.2 h 0.9 v 0.9 h -0.9 z M -42.2 28.2 h 0.9 v 0.9 h -0.9 z M -47.0 29.4 h 0.9 v 0.9 h -0.9 z M -42.2 29.4 h 0.9 v 0.9 h -0.9 z M -47.0 30.6 h 0.9 v 0.9 h -0.9 z M -45.8 30.6 h 0.9 v 0.9 h -0.9 z M -44.6 30.6 h 0.9 v 0.9 h -0.9 z M -43.4 30.6 h 0.9 v 0.9 h -0.9 z M -47.0 31.8 h 0.9 v 0.9 h -0.9 z M -42.2 31.8 h 0.9 v 0.9 h -0.9 z M -47.0 33.0 h 0.9 v 0.9 h -0.9 z M -42.2 33.0 h 0.9 v 0.9 h -0.9 z M -47.0 34.2 h 0.9 v 0.9 h -0.9 z M -45.8 34.2 h 0.9 v 0.9 h -0.9 z M -44.6 34.2 h 0.9 v 0.9 h -0.9 z M -43.4 34.2 h 0.9 v 0.9 h -0.9 z         M -38.2 27.0 h 0.9 v 0.9 h -0.9 z M -37.0 27.0 h 0.9 v 0.9 h -0.9 z M -35.8 27.0 h 0.9 v 0.9 h -0.9 z M -39.4 28.2 h 0.9 v 0.9 h -0.9 z M -34.6 28.2 h 0.9 v 0.9 h -0.9 z M -39.4 29.4 h 0.9 v 0.9 h -0.9 z M -34.6 29.4 h 0.9 v 0.9 h -0.9 z M -39.4 30.6 h 0.9 v 0.9 h -0.9 z M -34.6 30.6 h 0.9 v 0.9 h -0.9 z M -39.4 31.8 h 0.9 v 0.9 h -0.9 z M -34.6 31.8 h 0.9 v 0.9 h -0.9 z M -39.4 33.0 h 0.9 v 0.9 h -0.9 z M -34.6 33.0 h 0.9 v 0.9 h -0.9 z M -38.2 34.2 h 0.9 v 0.9 h -0.9 z M -37.0 34.2 h 0.9 v 0.9 h -0.9 z M -35.8 34.2 h 0.9 v 0.9 h -0.9 z         M -31.8 27.0 h 0.9 v 0.9 h -0.9 z M -27.0 27.0 h 0.9 v 0.9 h -0.9 z M -31.8 28.2 h 0.9 v 0.9 h -0.9 z M -27.0 28.2 h 0.9 v 0.9 h -0.9 z M -30.6 29.4 h 0.9 v 0.9 h -0.9 z M -28.2 29.4 h 0.9 v 0.9 h -0.9 z M -29.4 30.6 h 0.9 v 0.9 h -0.9 z M -29.4 31.8 h 0.9 v 0.9 h -0.9 z M -29.4 33.0 h 0.9 v 0.9 h -0.9 z M -29.4 34.2 h 0.9 v 0.9 h -0.9 z     "
+     id="path32" />
+</svg>
