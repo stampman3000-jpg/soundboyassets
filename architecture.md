@@ -11,12 +11,9 @@ separated so ideas can be tested quickly without rewriting the whole system.
 ---
 
 ## System Overview
-<div style="display: flex; gap: 20px; justify-content: center;">
-
-<img src="assets/photos/soundboy-architecture.jpg" width="45%" alt="Soundboy architecture">
-
-<img src="assets/photos/soundboy-architecture-2.jpg" width="45%" alt="Soundboy prototype">
-
+<div style="display: flex; gap: 20px;">
+<img src="assets/photos/Generated%20Image%20July%2018,%202026%20-%208_45AM.jpg" width="45%">
+<img src="assets/photos/Generated%20Image%20July%2018,%202026%20-%208_45AM%20(1).jpg" width="45%">
 </div>
 ---
 
