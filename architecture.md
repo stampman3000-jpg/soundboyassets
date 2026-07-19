@@ -11,17 +11,11 @@ separated so ideas can be tested quickly without rewriting the whole system.
 ---
 
 ## System Overview
-<div style="display: flex; gap: 15px;">
+<div style="display: flex; gap: 20px; justify-content: center;">
 
-<figure>
-<img src="assets/photos/soundboy-architecture.jpg" width="400">
-<figcaption>System architecture exploration</figcaption>
-</figure>
+<img src="assets/photos/soundboy-architecture.jpg" width="45%" alt="Soundboy architecture">
 
-<figure>
-<img src="assets/photos/soundboy-architecture-2.jpg" width="400">
-<figcaption>Prototype hardware iteration</figcaption>
-</figure>
+<img src="assets/photos/soundboy-architecture-2.jpg" width="45%" alt="Soundboy prototype">
 
 </div>
 ---
