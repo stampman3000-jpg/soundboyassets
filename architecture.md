@@ -11,7 +11,7 @@ separated so ideas can be tested quickly without rewriting the whole system.
 ---
 
 ## System Overview
-![Soundboy architecture](https://github.com/stampman3000-jpg/soundboyassets/blob/9c41fa6d31a7b4e9616bda7bb94980fb32eaf9e9/assets/photos/Generated%20Image%20July%2018%2C%202026%20-%208_45AM.jpg)
+![Soundboy architecture](assets/photos/Generated%20Image%20July%2018,%202026%20-%208_45AM.jpg)
 ---
 
 ## Core Systems
