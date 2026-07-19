@@ -1,26 +1,47 @@
 # Soundboy
 
-A Raspberry Pi based hardware groovebox exploring embedded DSP,
-human interaction and rapid prototyping.
+A Raspberry Pi based hardware groovebox exploring embedded audio, DSP,
+instrument design and rapid prototyping.
 
 ---
 
 ## Overview
 
-Soundboy is an ongoing R&D project investigating how far a Raspberry Pi can
-be pushed as the core of a dedicated musical instrument.
+Soundboy is an ongoing R&D project exploring how a low-cost single-board
+computer can become the foundation for a dedicated musical instrument.
 
-The emphasis is on fast iteration, tactile interaction and custom software
-rather than emulating existing hardware.
+The project focuses on the relationship between software, hardware and
+human interaction — building custom tools that feel immediate, tactile and
+inspiring to use.
+
+Rather than recreating existing instruments, Soundboy is an exploration of
+new workflows through custom interfaces, experimental DSP and iterative
+hardware development.
+
+---
 
 ## Highlights
 
-- OLED interface
-- Custom hardware controls
-- MIDI sequencing
-- Multiple synth engines
-- Sample playback
-- Designed from scratch
+- Custom OLED-based interface
+- Hardware controls and prototype input systems
+- MIDI sequencing and performance workflows
+- Custom synthesis engines
+- Sample playback and audio processing
+- Purpose-built software architecture
+
+---
+
+## Approach
+
+Soundboy is developed through rapid prototyping:
+
+- Build an idea quickly
+- Test it in a real musical context
+- Identify limitations
+- Refine the design
+
+The process involves software development, electronics, DSP experimentation
+and physical prototyping, with each iteration informing the next.
 
 ---
 
