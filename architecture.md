@@ -11,7 +11,19 @@ separated so ideas can be tested quickly without rewriting the whole system.
 ---
 
 ## System Overview
-![Soundboy architecture](assets/photos/Generated%20Image%20July%2018,%202026%20-%208_45AM.jpg)
+<div style="display: flex; gap: 15px;">
+
+<figure>
+<img src="assets/photos/soundboy-architecture.jpg" width="400">
+<figcaption>System architecture exploration</figcaption>
+</figure>
+
+<figure>
+<img src="assets/photos/soundboy-architecture-2.jpg" width="400">
+<figcaption>Prototype hardware iteration</figcaption>
+</figure>
+
+</div>
 ---
 
 ## Core Systems
