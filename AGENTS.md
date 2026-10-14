@@ -36,6 +36,6 @@ There is no `Gemfile` and no workflow file in the repo. Leave it that way unless
 
 This repo is public.
 
-- Do not add a home address, a personal johnny.barter email address, or private files.
+- Do not add a home address, a personal email address, or private files.
 - Make commits as `Stampman3000 <stampman3000@gmail.com>`.
 - Do not rewrite history. No force-push, no rebasing commits that are already on the remote, and no amending a commit that has been pushed.
